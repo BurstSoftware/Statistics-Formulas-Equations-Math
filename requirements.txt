@@ -1,0 +1,6 @@
+# requirements.txt
+# Compatible with Streamlit Cloud (Python 3.11+)
+streamlit==1.38.0
+streamlit-option-menu==0.3.12
+numpy==2.1.2
+pandas==2.2.3
